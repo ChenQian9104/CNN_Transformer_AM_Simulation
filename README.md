@@ -8,4 +8,4 @@
 ```python
 python3 multiGPUs.py
 ```
-![alt text](/asset/model_architecture.jpg)
+![alt text](/Asset/model_architecture.jpg)
